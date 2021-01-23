@@ -1,0 +1,58 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) CANAL D HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83758.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) AddikTV HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83759.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) CANAL Z HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83669.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) CASA HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83742.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) HISTORIA HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/83861?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Canal V
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83704.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Canal Vie HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83709.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI RDI HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83739.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Investigation HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83707.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) La Chaine Disney
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83708.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) MOI&cie HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83738.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Prise2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83731.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) RDS2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83734.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) RDS INFO
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83732.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Series+ HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83737.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Super Ecran 1 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83695.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Super Ecran 2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83696.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Super Ecran 4 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83698.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TVA Montreal HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83719.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",(FR) TVA Sports 2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83721.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",(FR) TVA Sports HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83722.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Tele-Quebec HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83700.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Telemagino HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83716.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) V Montreal HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83726.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Vrak HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83729.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Yoopa HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83706.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Teletoon French HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83717.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(LOCAL) ZESTE HD (FR)
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/83715?checkedby:hlscat.com
